@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { FeedbackOptions } from "./FeedbackOptions";
 import { Statistics } from "./Statistics";
 import { Notification } from "./Notification";
-import { Section } from "./Section";
+import { Section } from "./Section"; 
 
 export const App = () => {
 
