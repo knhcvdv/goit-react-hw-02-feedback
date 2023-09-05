@@ -1,6 +1,6 @@
 export const FeedbackOptions = (props) => {
 
-    const {options, onLeaveFeedback} = props
+    const {onLeaveFeedback} = props
     
     return <>
       <div style={{display:'flex'}}>
